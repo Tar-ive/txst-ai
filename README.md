@@ -1,6 +1,6 @@
-# UTSA AI Academic Advisor
+# TXST AI Academic Advisor
 
-This application takes into consideration all of UTSA's undergraduate course catalog, and enables students to easily ask any sort of question on what programs are available, course details, and even get recommendations based on their interests or needs.
+This application takes into consideration all of TXST's undergraduate course catalog, and enables students to easily ask any sort of question on what programs are available, course details, and even get recommendations based on their interests or needs.
 
 # Unlimited Context vs RAG
 
