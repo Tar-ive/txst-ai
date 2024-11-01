@@ -1,6 +1,6 @@
-# TXST AI Academic Advisor
+# McCoy AI Academic Advisor
 
-This application takes into consideration all of TXST's undergraduate course catalog, and enables students to easily ask any sort of question on what programs are available, course details, and even get recommendations based on their interests or needs.
+This application takes into consideration all of McCoy's undergraduate course catalog, and enables students to easily ask any sort of question on what programs are available, course details, and even get recommendations based on their interests or needs.
 
 # Unlimited Context vs RAG
 
@@ -19,3 +19,13 @@ In a lot of AI applications that use retrieval, chat experiences are very smooth
 ## Comparisons
 
 So the question now is when to use one or the other or both.  At this point it is unlikely that you would have some application that would need 1 million context length without first implementing retrieval.  If a user question can be used in some way to trim down the input by only getting the required sections of a knowledge base, use it.  The only times you might truly want to utilize the full large context is if you absolutely cannot remove any of the input documents, maybe because you don't actually know what you're looking for.  In this case it might be useful to simply pass in the entire documents, wait for the long response time, and have the model comb through all 900k tokens.
+
+## How to run it? 
+
+```npm install ```
+
+``` npm run dev ```
+
+## Demo
+
+![Demo Screenshot](file:///Users/tarive/txst-ai/content/Screenshot%202024-11-01%20at%2012.53.04%20AM.png)
