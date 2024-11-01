@@ -8,7 +8,7 @@ interface Params {
   id: number;
 }
 
-const coursesDirectory = '/Users/tarive/txst-ai/mccoy_courses_ug';
+const coursesDirectory = 'mccoy_courses_ug';
 
 const readCourseFiles = async (): Promise<string> => {
   try {
