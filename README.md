@@ -28,4 +28,4 @@ So the question now is when to use one or the other or both.  At this point it i
 
 ## Demo
 
-![Demo Screenshot](content/Screenshot 2024-11-01 at 12.53.04 AM.png)
+![Demo Screenshot](/content/Screenshot 2024-11-01 at 12.53.04 AM.png)
