@@ -28,5 +28,5 @@ So the question now is when to use one or the other or both.  At this point it i
 
 ## Demo
 
-![Demo Screenshot](/content/ss1.png)
+![Demo Screenshot](content/ss1)
 
