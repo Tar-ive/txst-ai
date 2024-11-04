@@ -24,5 +24,5 @@ Traditional university advising often fails to align with individual students' g
 ![Demo Screenshot](content/ss1)
 
 
-## Where is the agentic workflow? 
+## Where is the Agentic RAG system? 
 This part is still under works but the ``` txst-agentic-rag-system.ipynb``` contains the logic of what a basic system looks like. 
