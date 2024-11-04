@@ -13,7 +13,7 @@ Traditional university advising often fails to align with individual students' g
 - **Current Limitations**: Academic advisors often emphasize strict adherence to curriculum requirements rather than tailoring advice to students' personal academic and career goals. This approach lacks flexibility, leaving students feeling disconnected from the academic guidance process.
 - **Desired Outcome**: A system that understands a student's unique interests, ambitions, and constraints, providing customized course recommendations that align with their personal objectives while meeting degree requirements.
 
-## How to run it? 
+## How to run Acadmic Advisor RAG? 
 
 ```npm install ```
 
@@ -23,3 +23,6 @@ Traditional university advising often fails to align with individual students' g
 
 ![Demo Screenshot](content/ss1)
 
+
+## Where is the agentic workflow? 
+This part is still under works but the ``` txst-agentic-rag-system.ipynb``` contains the logic of what a basic system looks like. 
