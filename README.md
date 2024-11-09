@@ -27,5 +27,7 @@ Traditional university advising often fails to align with individual students' g
 ## Where is the Agentic RAG system? 
 This part is still under works but the ``` txst-agentic-rag-system.ipynb``` contains the logic of what a basic system looks like. 
 
+This is what I have been building until now and how I want to take things forward. 
+
 ![Demo Screenshot](ai-advisor.png)
 
